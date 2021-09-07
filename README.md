@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sp4rky07
+- 👀 I’m interested in C# & C++ programming.
+- 🌱 I’m currently learning how to program using C#.
